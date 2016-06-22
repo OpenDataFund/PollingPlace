@@ -1,0 +1,4669 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>pollingplace_city_shizuoka.csv</name>
+		<Placemark>
+			<name>静岡市葵区役所</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第1投票区<br>address: 静岡市葵区追手町５番１号<br>lat: 34.975333<br>lon: 138.382759]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第1投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区追手町５番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.975333</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.382759</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.382759,34.975333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>番町市民活動センター（旧一番町小体育館）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第2投票区<br>address: 静岡市葵区一番町５０番地<br>lat: 34.976256<br>lon: 138.372438]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第2投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区一番町５０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.976256</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.372438</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.372438,34.976256,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立新通小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第3投票区<br>address: 静岡市葵区駒形通二丁目４番４７号<br>lat: 34.9701904<br>lon: 138.3771102]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第3投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区駒形通二丁目４番４７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9701904</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3771102</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3771102,34.9701904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立駒形小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第4投票区<br>address: 静岡市葵区南安倍二丁目１番１号<br>lat: 34.9615775<br>lon: 138.3731053]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第4投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区南安倍二丁目１番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9615775</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3731053</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3731053,34.9615775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立田町小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第5投票区<br>address: 静岡市葵区田町五丁目７０番地<br>lat: 34.9673157<br>lon: 138.3668057]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第5投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区田町五丁目７０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9673157</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3668057</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3668057,34.9673157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西部生涯学習センター（旧西部公民館）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第6投票区<br>address: 静岡市葵区田町三丁目４６番地の５<br>lat: 34.970909<br>lon: 138.367371]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第6投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区田町三丁目４６番地の５</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.970909</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.367371</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.367371,34.970909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立番町小学校（旧三番町小学校）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第7投票区<br>address: 静岡市葵区新富町一丁目２３番地の１<br>lat: 34.9752815<br>lon: 138.3689469]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第7投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区新富町一丁目２３番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9752815</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3689469</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3689469,34.9752815,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>井宮町公会堂</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第8投票区<br>address: 静岡市葵区井宮町２０５番地の１<br>lat: 34.9871467<br>lon: 138.3717908]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第8投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区井宮町２０５番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9871467</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3717908</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3717908,34.9871467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立安西小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第9投票区<br>address: 静岡市葵区安西一丁目９６番地の３<br>lat: 34.980895<br>lon: 138.374294]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第9投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区安西一丁目９６番地の３</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.980895</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.374294</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.374294,34.980895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡県立静岡高等学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第10投票区<br>address: 静岡市葵区長谷町６６番地<br>lat: 34.9853025<br>lon: 138.3804484]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第10投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区長谷町６６番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9853025</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3804484</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3804484,34.9853025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立葵小学校（旧城内小学校）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第11投票区<br>address: 静岡市葵区城内町７番９号<br>lat: 34.9823445<br>lon: 138.3825177]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第11投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区城内町７番９号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9823445</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3825177</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3825177,34.9823445,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立伝馬町小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第12投票区<br>address: 静岡市葵区伝馬町１４番地の２<br>lat: 34.975096<br>lon: 138.391696]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第12投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区伝馬町１４番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.975096</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.391696</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.391696,34.975096,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>護国神社内つつじ会館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第13投票区<br>address: 静岡市葵区柚木２５０番地の２<br>lat: 34.9852364<br>lon: 138.4080903]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第13投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区柚木２５０番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9852364</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4080903</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4080903,34.9852364,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立千代田小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第14投票区<br>address: 静岡市葵区沓谷五丁目４７番地の１<br>lat: 34.9961517<br>lon: 138.4068596]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第14投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区沓谷五丁目４７番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9961517</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4068596</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4068596,34.9961517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東部生涯学習センター（旧東部公民館）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第15投票区<br>address: 静岡市葵区千代田七丁目８番１５号<br>lat: 35.0014538<br>lon: 138.4059456]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第15投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区千代田七丁目８番１５号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0014538</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4059456</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4059456,35.0014538,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立竜南小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第16投票区<br>address: 静岡市葵区竜南一丁目２３番１号<br>lat: 34.9990594<br>lon: 138.396316]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第16投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区竜南一丁目２３番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9990594</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.396316</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.396316,34.9990594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立高等学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第17投票区<br>address: 静岡市葵区千代田三丁目１番１号<br>lat: 34.9932407<br>lon: 138.3988243]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第17投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区千代田三丁目１番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9932407</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3988243</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3988243,34.9932407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立東中学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第18投票区<br>address: 静岡市葵区沓谷一丁目６番１号<br>lat: 34.9858888<br>lon: 138.3971802]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第18投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区沓谷一丁目６番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9858888</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3971802</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3971802,34.9858888,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立横内小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第19投票区<br>address: 静岡市葵区緑町１番１号<br>lat: 34.9860942<br>lon: 138.3928917]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第19投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区緑町１番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9860942</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3928917</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3928917,34.9860942,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立安東小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第20投票区<br>address: 静岡市葵区安東三丁目１６番１号<br>lat: 34.9917489<br>lon: 138.3834423]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第20投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区安東三丁目１６番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9917489</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3834423</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3834423,34.9917489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡県立静岡城北高等学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第21投票区<br>address: 静岡市葵区北安東二丁目３番１号<br>lat: 34.994893<br>lon: 138.3851282]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第21投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区北安東二丁目３番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.994893</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3851282</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3851282,34.994893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立城北小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第22投票区<br>address: 静岡市葵区北安東四丁目２７番３号<br>lat: 35.0027837<br>lon: 138.3879333]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第22投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区北安東四丁目２７番３号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0027837</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3879333</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3879333,35.0027837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立麻機小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第23投票区<br>address: 静岡市葵区有永４２１番地の１<br>lat: 35.025697<br>lon: 138.38949]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第23投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区有永４２１番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.025697</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.38949</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.38949,35.025697,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第24投票区<br>address: 静岡市葵区北二丁目１９番１２号<br>lat: 35.037349<br>lon: 138.396486]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第24投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区北二丁目１９番１２号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.037349</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.396486</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.396486,35.037349,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立千代田東小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第25投票区<br>address: 静岡市葵区川合三丁目４番１号<br>lat: 35.0058147<br>lon: 138.413867]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第25投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区川合三丁目４番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0058147</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.413867</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.413867,35.0058147,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上土公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第26投票区<br>address: 静岡市葵区上土二丁目７番７号<br>lat: 35.0015569<br>lon: 138.4153753]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第26投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区上土二丁目７番７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0015569</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4153753</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4153753,35.0015569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>古庄公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第27投票区<br>address: 静岡市葵区古庄二丁目１番８１号<br>lat: 34.9959966<br>lon: 138.4217693]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第27投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区古庄二丁目１番８１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9959966</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4217693</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4217693,34.9959966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立西奈南小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第28投票区<br>address: 静岡市葵区南瀬名町１番２０号<br>lat: 35.002232<br>lon: 138.4226219]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第28投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区南瀬名町１番２０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.002232</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4226219</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4226219,35.002232,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>瀬名川公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第29投票区<br>address: 静岡市葵区瀬名川二丁目２５番１５号<br>lat: 35.0072455<br>lon: 138.4284937]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第29投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区瀬名川二丁目２５番１５号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0072455</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4284937</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4284937,35.0072455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立西奈中学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第30投票区<br>address: 静岡市葵区東瀬名町１４番１号<br>lat: 35.0113561<br>lon: 138.4275187]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第30投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区東瀬名町１４番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0113561</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4275187</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4275187,35.0113561,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西奈生涯学習センター（リンク西奈）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第31投票区<br>address: 静岡市葵区瀬名二丁目３２番４３号<br>lat: 35.0175663<br>lon: 138.4228135]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第31投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区瀬名二丁目３２番４３号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0175663</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4228135</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4228135,35.0175663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立西奈小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第32投票区<br>address: 静岡市葵区瀬名三丁目２３番１号<br>lat: 35.0231184<br>lon: 138.4220052]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第32投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区瀬名三丁目２３番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0231184</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4220052</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4220052,35.0231184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立北沼上小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第33投票区<br>address: 静岡市葵区北沼上１０２０番地<br>lat: 35.04746<br>lon: 138.4239103]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第33投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区北沼上１０２０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.04746</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4239103</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4239103,35.04746,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立賤機北小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第34投票区<br>address: 静岡市葵区俵沢２３４番地の１<br>lat: 35.1081786<br>lon: 138.3673136]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第34投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区俵沢２３４番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1081786</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3673136</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3673136,35.1081786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立賤機中小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第35投票区<br>address: 静岡市葵区牛妻２０９５番地の２<br>lat: 35.064133<br>lon: 138.370131]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第35投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区牛妻２０９５番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.064133</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.370131</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.370131,35.064133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立賤機南小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第36投票区<br>address: 静岡市葵区松富三丁目１番４６号<br>lat: 35.0144823<br>lon: 138.3747206]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第36投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区松富三丁目１番４６号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0144823</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3747206</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3747206,35.0144823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立井宮北小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第37投票区<br>address: 静岡市葵区上伝馬２番１号<br>lat: 35.0046502<br>lon: 138.3686989]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第37投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区上伝馬２番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0046502</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3686989</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3686989,35.0046502,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立籠上中学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第38投票区<br>address: 静岡市葵区平和二丁目２番１号<br>lat: 34.9918989<br>lon: 138.3666494]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第38投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区平和二丁目２番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9918989</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3666494</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3666494,34.9918989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>秋山町公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第39投票区<br>address: 静岡市葵区秋山町１番２０号<br>lat: 35.0029337<br>lon: 138.3632272]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第39投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区秋山町１番２０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0029337</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3632272</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3632272,35.0029337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>アカデ美和／北部生涯学習センター美和分館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第40投票区<br>address: 静岡市葵区安倍口団地５番１号<br>lat: 35.022256<br>lon: 138.364407]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第40投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区安倍口団地５番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.022256</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.364407</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.364407,35.022256,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立安倍口小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第41投票区<br>address: 静岡市葵区安倍口新田５０番地<br>lat: 35.0223814<br>lon: 138.359808]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第41投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区安倍口新田５０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0223814</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.359808</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.359808,35.0223814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立美和中学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第42投票区<br>address: 静岡市葵区足久保口組３２７６番地の２<br>lat: 35.0437925<br>lon: 138.3680015]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第42投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区足久保口組３２７６番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0437925</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3680015</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3680015,35.0437925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立松野小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第43投票区<br>address: 静岡市葵区松野５９８番地の２<br>lat: 35.076427<br>lon: 138.3673534]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第43投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区松野５９８番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.076427</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3673534</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3673534,35.076427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立足久保小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第44投票区<br>address: 静岡市葵区足久保奥組７４１番地の１<br>lat: 35.0612171<br>lon: 138.338312]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第44投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区足久保奥組７４１番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0612171</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.338312</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.338312,35.0612171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立水見色小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第45投票区<br>address: 静岡市葵区水見色１０４０番地の３<br>lat: 35.0383415<br>lon: 138.2944869]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第45投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区水見色１０４０番地の３</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0383415</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.2944869</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.2944869,35.0383415,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立中藁科小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第46投票区<br>address: 静岡市葵区大原９４２番地の１<br>lat: 35.00975<br>lon: 138.2762038]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第46投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区大原９４２番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.00975</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.2762038</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.2762038,35.00975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立服織西小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第47投票区<br>address: 静岡市葵区新間７５９番地の１の１<br>lat: 34.9943611<br>lon: 138.3074421]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第47投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区新間７５９番地の１の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9943611</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3074421</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3074421,34.9943611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立服織小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第48投票区<br>address: 静岡市葵区羽鳥六丁目９番１号<br>lat: 34.9856547<br>lon: 138.3366279]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第48投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区羽鳥六丁目９番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9856547</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3366279</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3366279,34.9856547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立服織中学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第49投票区<br>address: 静岡市葵区羽鳥一丁目８番１号<br>lat: 34.9809721<br>lon: 138.3444076]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第49投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区羽鳥一丁目８番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9809721</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3444076</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3444076,34.9809721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立服織こども園</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第50投票区<br>address: 静岡市葵区山崎一丁目１７番地の１<br>lat: 34.97572<br>lon: 138.353834]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第50投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区山崎一丁目１７番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.97572</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.353834</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.353834,34.97572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>牧ケ谷公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第51投票区<br>address: 静岡市葵区牧ケ谷３３６番地<br>lat: 34.9748616<br>lon: 138.3393501]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第51投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区牧ケ谷３３６番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9748616</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3393501</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3393501,34.9748616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立南藁科小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第52投票区<br>address: 静岡市葵区吉津４００番地<br>lat: 34.979432<br>lon: 138.315317]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第52投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区吉津４００番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.979432</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.315317</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.315317,34.979432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小瀬戸公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第53投票区<br>address: 静岡市葵区小瀬戸１３９１番地の１<br>lat: 34.984205<br>lon: 138.293498]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第53投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区小瀬戸１３９１番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.984205</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.293498</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.293498,34.984205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立中藁科小学校 小布杉分校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第54投票区<br>address: 静岡市葵区小布杉１７５６番地の１<br>lat: 34.9984559<br>lon: 138.2435858]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第54投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区小布杉１７５６番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9984559</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.2435858</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.2435858,34.9984559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清沢小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第55投票区<br>address: 静岡市葵区相俣９９番地の１<br>lat: 35.0332407<br>lon: 138.2457012]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第55投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区相俣９９番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0332407</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.2457012</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.2457012,35.0332407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市清沢避難所</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第56投票区<br>address: 静岡市葵区鍵穴７２３番地<br>lat: 35.048508<br>lon: 138.2468614]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第56投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区鍵穴７２３番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.048508</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.2468614</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.2468614,35.048508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立峰山小学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第57投票区<br>address: 静岡市葵区黒俣２７４１番地の１６<br>lat: 35.0687625<br>lon: 138.2067432]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第57投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区黒俣２７４１番地の１６</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0687625</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.2067432</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.2067432,35.0687625,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立大川中学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第58投票区<br>address: 静岡市葵区日向８７６番地<br>lat: 35.092379<br>lon: 138.2409097]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第58投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区日向８７６番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.092379</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.2409097</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.2409097,35.092379,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立大川こども園</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第59投票区<br>address: 静岡市葵区坂ノ上１２３９番地の４<br>lat: 35.072635<br>lon: 138.247863]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第59投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区坂ノ上１２３９番地の４</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.072635</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.247863</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.247863,35.072635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>玉川生涯学習交流館（旧玉川分館）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第60投票区<br>address: 静岡市葵区落合１２６番地の１<br>lat: 35.1104661<br>lon: 138.3313223]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第60投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区落合１２６番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1104661</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3313223</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3313223,35.1104661,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市玉川キャンプセンター</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第61投票区<br>address: 静岡市葵区長妻田７５５番地<br>lat: 35.1631311<br>lon: 138.3266831]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第61投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区長妻田７５５番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1631311</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3266831</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3266831,35.1631311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>玉川西公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第62投票区<br>address: 静岡市葵区落合１４１７番地の１２<br>lat: 35.117164<br>lon: 138.306005]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第62投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区落合１４１７番地の１２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.117164</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.306005</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.306005,35.117164,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大河内生涯学習交流館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第63投票区<br>address: 静岡市葵区平野１０９７番地の３８<br>lat: 35.141318<br>lon: 138.365378]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第63投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区平野１０９７番地の３８</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.141318</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.365378</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.365378,35.141318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>渡老人つどいの家</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第64投票区<br>address: 静岡市葵区渡５２２番地<br>lat: 35.184139<br>lon: 138.36272]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第64投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区渡５２２番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.184139</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.36272</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.36272,35.184139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>有東木公民館</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第65投票区<br>address: 静岡市葵区有東木７２０番地<br>lat: 35.207315<br>lon: 138.369136]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第65投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区有東木７２０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.207315</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.369136</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.369136,35.207315,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立梅ケ島中学校</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第66投票区<br>address: 静岡市葵区梅ケ島１３０９番地の１<br>lat: 35.244165<br>lon: 138.339801]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第66投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区梅ケ島１３０９番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.244165</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.339801</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.339801,35.244165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新田公会堂</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第67投票区<br>address: 静岡市葵区梅ケ島５６０２番地の２<br>lat: 35.279451<br>lon: 138.332157]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第67投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区梅ケ島５６０２番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.279451</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.332157</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.332157,35.279451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市井川支所</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第68投票区<br>address: 静岡市葵区井川６５６番地の２<br>lat: 35.221616<br>lon: 138.241358]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第68投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区井川６５６番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.221616</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.241358</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.241358,35.221616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>田代生涯学習交流館（旧田代分館）</name>
+			<description><![CDATA[ward: 葵区<br>name_area: 第69投票区<br>address: 静岡市葵区田代４８１番地の１<br>lat: 35.257059<br>lon: 138.23399]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>葵区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第69投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市葵区田代４８１番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.257059</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.23399</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.23399,35.257059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立南部小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第1投票区<br>address: 静岡市駿河区南八幡町１１番１号<br>lat: 34.9624111<br>lon: 138.4031109]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第1投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区南八幡町１１番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9624111</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4031109</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4031109,34.9624111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立中田小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第2投票区<br>address: 静岡市駿河区中田二丁目１４番１号<br>lat: 34.9634719<br>lon: 138.3923618]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第2投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区中田二丁目１４番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9634719</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3923618</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3923618,34.9634719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立森下小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第3投票区<br>address: 静岡市駿河区森下町２番１号<br>lat: 34.9713237<br>lon: 138.3929615]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第3投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区森下町２番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9713237</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3929615</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3929615,34.9713237,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡女子高等学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第4投票区<br>address: 静岡市駿河区八幡三丁目６番１号<br>lat: 34.969724<br>lon: 138.3960696]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第4投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区八幡三丁目６番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.969724</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3960696</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3960696,34.969724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡県立駿河総合高等学校（旧静岡市商）</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第5投票区<br>address: 静岡市駿河区有東三丁目４番１７号<br>lat: 34.9632723<br>lon: 138.4104241]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第5投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区有東三丁目４番１７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9632723</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4104241</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4104241,34.9632723,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立小黒こども園</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第6投票区<br>address: 静岡市駿河区小黒一丁目７番６号<br>lat: 34.9750319<br>lon: 138.4008996]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第6投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区小黒一丁目７番６号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9750319</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4008996</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4008996,34.9750319,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立西豊田小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第7投票区<br>address: 静岡市駿河区曲金二丁目８番８０号<br>lat: 34.9783678<br>lon: 138.4073545]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第7投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区曲金二丁目８番８０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9783678</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4073545</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4073545,34.9783678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡県立大学短期大学部静岡校（事務棟）</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第8投票区<br>address: 静岡市駿河区小鹿二丁目２番１号<br>lat: 34.974924<br>lon: 138.4174148]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第8投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区小鹿二丁目２番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.974924</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4174148</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4174148,34.974924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小鹿一丁目公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第9投票区<br>address: 静岡市駿河区小鹿一丁目１５番８号<br>lat: 34.9772376<br>lon: 138.4168842]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第9投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区小鹿一丁目１５番８号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9772376</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4168842</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4168842,34.9772376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小鹿伊勢神明社社務所</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第10投票区<br>address: 静岡市駿河区小鹿８８６番地<br>lat: 34.9723856<br>lon: 138.4280917]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第10投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区小鹿８８６番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9723856</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4280917</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4280917,34.9723856,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立東豊田小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第11投票区<br>address: 静岡市駿河区池田４９１番地の２<br>lat: 34.9840453<br>lon: 138.4234668]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第11投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区池田４９１番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9840453</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4234668</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4234668,34.9840453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立東豊田中学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第12投票区<br>address: 静岡市駿河区国吉田五丁目２３番１号<br>lat: 34.9913642<br>lon: 138.4370739]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第12投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区国吉田五丁目２３番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9913642</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4370739</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4370739,34.9913642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>谷田公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第13投票区<br>address: 静岡市駿河区谷田２６番５号<br>lat: 34.9948888<br>lon: 138.4393432]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第13投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区谷田２６番５号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9948888</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4393432</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4393432,34.9948888,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立久能小学校（体育館）</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第14投票区<br>address: 静岡市駿河区古宿２１３番地の２<br>lat: 34.957688<br>lon: 138.457426]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第14投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区古宿２１３番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.957688</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.457426</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.457426,34.957688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立大谷小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第15投票区<br>address: 静岡市駿河区大谷３６８３番地の２<br>lat: 34.9548317<br>lon: 138.4292837]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第15投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区大谷３６８３番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9548317</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4292837</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4292837,34.9548317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立大里東小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第16投票区<br>address: 静岡市駿河区高松２３１０番地<br>lat: 34.9465407<br>lon: 138.418785]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第16投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区高松２３１０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9465407</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.418785</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.418785,34.9465407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立宮竹小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第17投票区<br>address: 静岡市駿河区宮竹二丁目１２番１号<br>lat: 34.9517319<br>lon: 138.4174905]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第17投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区宮竹二丁目１２番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9517319</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4174905</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4174905,34.9517319,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立高松中学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第18投票区<br>address: 静岡市駿河区登呂四丁目６番１号<br>lat: 34.9583784<br>lon: 138.4102298]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第18投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区登呂四丁目６番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9583784</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4102298</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4102298,34.9583784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>県立静岡聴覚特別支援学校（静岡聾学校）</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第19投票区<br>address: 静岡市駿河区中村町２５１番地<br>lat: 34.9509039<br>lon: 138.3924622]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第19投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区中村町２５１番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9509039</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3924622</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3924622,34.9509039,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立大里西小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第20投票区<br>address: 静岡市駿河区中原４００番地<br>lat: 34.957265<br>lon: 138.386884]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第20投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区中原４００番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.957265</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.386884</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.386884,34.957265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>馬渕公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第21投票区<br>address: 静岡市駿河区馬渕三丁目１５番１０号<br>lat: 34.964245<br>lon: 138.387885]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第21投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区馬渕三丁目１５番１０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.964245</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.387885</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.387885,34.964245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新川簡易児童館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第22投票区<br>address: 静岡市駿河区新川一丁目１０番５号<br>lat: 34.9625247<br>lon: 138.3834571]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第22投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区新川一丁目１０番５号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9625247</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3834571</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3834571,34.9625247,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立大里中学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第23投票区<br>address: 静岡市駿河区中野新田５７番地の５<br>lat: 34.952082<br>lon: 138.384857]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第23投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区中野新田５７番地の５</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.952082</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.384857</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.384857,34.952082,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立中島小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第24投票区<br>address: 静岡市駿河区中島２９９２番地の１<br>lat: 34.9410745<br>lon: 138.3995646]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第24投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区中島２９９２番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9410745</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3995646</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3995646,34.9410745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中島浜公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第25投票区<br>address: 静岡市駿河区中島１４５７番地<br>lat: 34.937305<br>lon: 138.399463]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第25投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区中島１４５７番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.937305</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.399463</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.399463,34.937305,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立長田南小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第26投票区<br>address: 静岡市駿河区広野四丁目７番１号<br>lat: 34.9277258<br>lon: 138.3693593]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第26投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区広野四丁目７番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9277258</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3693593</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3693593,34.9277258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立川原小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第27投票区<br>address: 静岡市駿河区下川原四丁目１４番１号<br>lat: 34.9372166<br>lon: 138.3830051]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第27投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区下川原四丁目１４番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9372166</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3830051</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3830051,34.9372166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>かわはら会館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第28投票区<br>address: 静岡市駿河区下川原六丁目１番６号<br>lat: 34.9354612<br>lon: 138.3756086]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第28投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区下川原六丁目１番６号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9354612</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3756086</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3756086,34.9354612,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立長田東小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第29投票区<br>address: 静岡市駿河区東新田三丁目１０番１号<br>lat: 34.9460377<br>lon: 138.3726836]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第29投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区東新田三丁目１０番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9460377</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3726836</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3726836,34.9460377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立長田南中学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第30投票区<br>address: 静岡市駿河区みずほ三丁目９番地の１<br>lat: 34.9377221<br>lon: 138.3681231]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第30投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区みずほ三丁目９番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9377221</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3681231</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3681231,34.9377221,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立長田西中学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第31投票区<br>address: 静岡市駿河区丸子一丁目１番１号<br>lat: 34.9474737<br>lon: 138.3596736]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第31投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区丸子一丁目１番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9474737</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3596736</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3596736,34.9474737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立長田北小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第32投票区<br>address: 静岡市駿河区向敷地８９０番地<br>lat: 34.9623775<br>lon: 138.3586732]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第32投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区向敷地８９０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9623775</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3586732</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3586732,34.9623775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立長田西小学校</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第33投票区<br>address: 静岡市駿河区丸子六丁目１５番６５号<br>lat: 34.9462987<br>lon: 138.3504078]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第33投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区丸子六丁目１５番６５号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9462987</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3504078</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3504078,34.9462987,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>二軒家公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第34投票区<br>address: 静岡市駿河区丸子５４７１番地の１<br>lat: 34.9467369<br>lon: 138.3309375]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第34投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区丸子５４７１番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9467369</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3309375</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3309375,34.9467369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小坂公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第35投票区<br>address: 静岡市駿河区小坂２１１９番地<br>lat: 34.9217956<br>lon: 138.3456809]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第35投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区小坂２１１９番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9217956</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3456809</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3456809,34.9217956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>用宗公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第36投票区<br>address: 静岡市駿河区用宗四丁目１番６号<br>lat: 34.9240345<br>lon: 138.3615822]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第36投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区用宗四丁目１番６号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9240345</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.3615822</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.3615822,34.9240345,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>手越原公民館</name>
+			<description><![CDATA[ward: 駿河区<br>name_area: 第37投票区<br>address: 静岡市駿河区手越原２４１番地の２<br>lat: 34.951222<br>lon: 138.361956]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>駿河区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第37投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市駿河区手越原２４１番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.951222</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.361956</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.361956,34.951222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水辻こども園</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第1投票区<br>address: 静岡市清水区辻四丁目７番２１号<br>lat: 35.028728<br>lon: 138.4864219]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第1投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区辻四丁目７番２１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.028728</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4864219</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4864219,35.028728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水江尻小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第2投票区<br>address: 静岡市清水区江尻町１４番６３号<br>lat: 35.0211704<br>lon: 138.4799699]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第2投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区江尻町１４番６３号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0211704</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4799699</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4799699,35.0211704,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>江尻生涯学習交流館（旧江尻公民館）</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第3投票区<br>address: 静岡市清水区小芝町３番３５号<br>lat: 35.0231702<br>lon: 138.4823557]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第3投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区小芝町３番３５号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0231702</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4823557</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4823557,35.0231702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水第一中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第4投票区<br>address: 静岡市清水区宮代町５番５５号<br>lat: 35.0267809<br>lon: 138.4833639]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第4投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区宮代町５番５５号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0267809</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4833639</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4833639,35.0267809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>入江生涯学習交流館（旧入江公民館）</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第5投票区<br>address: 静岡市清水区入江三丁目８番１２号<br>lat: 35.0165292<br>lon: 138.476662]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第5投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区入江三丁目８番１２号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0165292</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.476662</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.476662,35.0165292,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水入江小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第6投票区<br>address: 静岡市清水区追分二丁目３番１号<br>lat: 35.0145627<br>lon: 138.47424]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第6投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区追分二丁目３番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0145627</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.47424</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.47424,35.0145627,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>渋川自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第7投票区<br>address: 静岡市清水区渋川二丁目５番６号<br>lat: 35.0190592<br>lon: 138.4703958]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第7投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区渋川二丁目５番６号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0190592</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4703958</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4703958,35.0190592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市清水区役所</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第8投票区<br>address: 静岡市清水区旭町６番８号<br>lat: 35.0158907<br>lon: 138.4895331]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第8投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区旭町６番８号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0158907</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4895331</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4895331,35.0158907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水浜田小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第9投票区<br>address: 静岡市清水区浜田町１１番１号<br>lat: 35.0131548<br>lon: 138.4829921]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第9投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区浜田町１１番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0131548</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4829921</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4829921,35.0131548,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水川原こども園</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第10投票区<br>address: 静岡市清水区川原町２４番８号<br>lat: 35.0003393<br>lon: 138.4752792]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第10投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区川原町２４番８号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0003393</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4752792</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4752792,35.0003393,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水第二中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第11投票区<br>address: 静岡市清水区神田町４番５７号<br>lat: 35.0068776<br>lon: 138.4795454]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第11投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区神田町４番５７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0068776</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4795454</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4795454,35.0068776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水船越小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第12投票区<br>address: 静岡市清水区船越三丁目15番１号<br>lat: 34.9982894<br>lon: 138.4718823]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第12投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区船越三丁目15番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9982894</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4718823</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4718823,34.9982894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>船原自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第13投票区<br>address: 静岡市清水区船原二丁目１２番地の７<br>lat: 35.006079<br>lon: 138.472892]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第13投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区船原二丁目１２番地の７</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.006079</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.472892</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.472892,35.006079,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>有東坂二区自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第14投票区<br>address: 静岡市清水区有東坂一丁目２２１５番地<br>lat: 35.007608<br>lon: 138.466825]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第14投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区有東坂一丁目２２１５番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.007608</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.466825</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.466825,35.007608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第15投票区<br>address: 静岡市清水区松井町１５番１号<br>lat: 35.0024034<br>lon: 138.4903611]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第15投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区松井町１５番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0024034</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4903611</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4903611,35.0024034,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水第三中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第16投票区<br>address: 静岡市清水区三光町３番５７号<br>lat: 35.0018201<br>lon: 138.4871587]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第16投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区三光町３番５７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0018201</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4871587</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4871587,35.0018201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水不二見小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第17投票区<br>address: 静岡市清水区新緑町２番２１号<br>lat: 34.9954568<br>lon: 138.4891254]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第17投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区新緑町２番２１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9954568</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4891254</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4891254,34.9954568,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>宮加三自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第18投票区<br>address: 静岡市清水区宮加三３６７番地の２<br>lat: 34.9878436<br>lon: 138.4963748]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第18投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区宮加三３６７番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9878436</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4963748</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4963748,34.9878436,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>日立町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第19投票区<br>address: 静岡市清水区日立町１５番１４号<br>lat: 34.9942457<br>lon: 138.4846619]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第19投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区日立町１５番１４号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9942457</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4846619</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4846619,34.9942457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水駒越小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第20投票区<br>address: 静岡市清水区駒越東町２番２０号<br>lat: 34.9818691<br>lon: 138.5018523]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第20投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区駒越東町２番２０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9818691</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5018523</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5018523,34.9818691,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>増公民館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第21投票区<br>address: 静岡市清水区増１８７番地の１<br>lat: 34.967867<br>lon: 138.485812]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第21投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区増１８７番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.967867</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.485812</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.485812,34.967867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>駒越生涯学習交流館（旧駒越公民館）</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第22投票区<br>address: 静岡市清水区迎山町１番７号<br>lat: 34.9778195<br>lon: 138.4941338]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第22投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区迎山町１番７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9778195</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4941338</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4941338,34.9778195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>折戸生涯学習交流館（旧折戸公民館）</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第23投票区<br>address: 静岡市清水区折戸四丁目８番６０号<br>lat: 34.9901406<br>lon: 138.5134951]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第23投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区折戸四丁目８番６０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.9901406</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5134951</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5134951,34.9901406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>㈱三保造船所　三船寮</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第24投票区<br>address: 静岡市清水区三保３５８１番地の６３<br>lat: 35.0069223<br>lon: 138.5205741]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第24投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区三保３５８１番地の６３</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0069223</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5205741</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5205741,35.0069223,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水三保第一小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第25投票区<br>address: 静岡市清水区三保１０６９番地の１<br>lat: 35.0010535<br>lon: 138.522188]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第25投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区三保１０６９番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0010535</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.522188</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.522188,35.0010535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>塚間自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第26投票区<br>address: 静岡市清水区三保７０５番地<br>lat: 35.0033394<br>lon: 138.5087089]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第26投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区三保７０５番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0033394</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5087089</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5087089,35.0033394,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>八坂町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第27投票区<br>address: 静岡市清水区八坂東一丁目７番８号<br>lat: 35.0323134<br>lon: 138.4789113]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第27投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区八坂東一丁目７番８号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0323134</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4789113</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4789113,35.0323134,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水飯田南こども園</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第28投票区<br>address: 静岡市清水区高橋四丁目４番５６号<br>lat: 35.02916878<br>lon: 138.4743586]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第28投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区高橋四丁目４番５６号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.02916878</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4743586</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4743586,35.02916878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水第六中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第29投票区<br>address: 静岡市清水区天王西１０番４０号<br>lat: 35.0302631<br>lon: 138.4592965]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第29投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区天王西１０番４０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0302631</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4592965</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4592965,35.0302631,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水飯田小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第30投票区<br>address: 静岡市清水区下野中２番４０号<br>lat: 35.0354072<br>lon: 138.4692149]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第30投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区下野中２番４０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0354072</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4692149</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4692149,35.0354072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水飯田中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第31投票区<br>address: 静岡市清水区山原１１２番地の１<br>lat: 35.04143671<br>lon: 138.4683678]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第31投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区山原１１２番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.04143671</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4683678</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4683678,35.04143671,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水高部中央こども園</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第32投票区<br>address: 静岡市清水区梅ヶ谷４５９番地の１<br>lat: 35.0425031<br>lon: 138.4519857]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第32投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区梅ヶ谷４５９番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0425031</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4519857</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4519857,35.0425031,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水高部こども園</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第33投票区<br>address: 静岡市清水区押切９９６番地の２<br>lat: 35.0280493<br>lon: 138.4535526]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第33投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区押切９９６番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0280493</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4535526</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4535526,35.0280493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大内自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第34投票区<br>address: 静岡市清水区大内６６２番地<br>lat: 35.025338<br>lon: 138.44228]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第34投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区大内６６２番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.025338</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.44228</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.44228,35.025338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>吉川自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第35投票区<br>address: 静岡市清水区吉川２７８番地の４<br>lat: 35.013584<br>lon: 138.456708]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第35投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区吉川２７８番地の４</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.013584</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.456708</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.456708,35.013584,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水有度第一小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第36投票区<br>address: 静岡市清水区有度本町３番１号<br>lat: 35.0069824<br>lon: 138.4531977]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第36投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区有度本町３番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0069824</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4531977</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4531977,35.0069824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>長崎自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第37投票区<br>address: 静岡市清水区長崎３７８番地<br>lat: 35.0168337<br>lon: 138.4456313]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第37投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区長崎３７８番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0168337</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4456313</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4456313,35.0168337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>長崎南町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第38投票区<br>address: 静岡市清水区長崎南町４番３０号<br>lat: 35.0076377<br>lon: 138.4485396]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第38投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区長崎南町４番３０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0076377</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4485396</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4485396,35.0076377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>楠自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第39投票区<br>address: 静岡市清水区楠１１３番地の３<br>lat: 35.0084679<br>lon: 138.437133]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第39投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区楠１１３番地の３</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0084679</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.437133</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.437133,35.0084679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中之郷自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第40投票区<br>address: 静岡市清水区中之郷二丁目１０番１７号<br>lat: 35.0002771<br>lon: 138.4383793]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第40投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区中之郷二丁目１０番１７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0002771</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4383793</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4383793,35.0002771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水第七中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第41投票区<br>address: 静岡市清水区草薙三丁目９番２０号<br>lat: 35.0019134<br>lon: 138.448112]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第41投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区草薙三丁目９番２０号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0019134</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.448112</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.448112,35.0019134,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>草薙団地自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第42投票区<br>address: 静岡市清水区草薙３５０番地の６９<br>lat: 34.993178<br>lon: 138.453366]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第42投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区草薙３５０番地の６９</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.993178</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.453366</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.453366,34.993178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水袖師中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第43投票区<br>address: 静岡市清水区西久保１２５番地の１<br>lat: 35.0391212<br>lon: 138.4855689]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第43投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区西久保１２５番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0391212</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4855689</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4855689,35.0391212,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水袖師小学校（体育館）</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第44投票区<br>address: 静岡市清水区袖師町４２０番地<br>lat: 35.034701<br>lon: 138.488862]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第44投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区袖師町４２０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.034701</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.488862</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.488862,35.034701,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>横砂自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第45投票区<br>address: 静岡市清水区横砂本町１８番７号<br>lat: 35.044809<br>lon: 138.500916]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第45投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区横砂本町１８番７号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.044809</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.500916</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.500916,35.044809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水庵原小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第46投票区<br>address: 静岡市清水区庵原町１７２３番地<br>lat: 35.051895<br>lon: 138.475236]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第46投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区庵原町１７２３番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.051895</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.475236</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.475236,35.051895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>伊佐布自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第47投票区<br>address: 静岡市清水区伊佐布３７６番地の２<br>lat: 35.071426<br>lon: 138.467345]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第47投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区伊佐布３７６番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.071426</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.467345</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.467345,35.071426,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>吉原自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第48投票区<br>address: 静岡市清水区吉原１２７６番地<br>lat: 35.085323<br>lon: 138.462179]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第48投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区吉原１２７６番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.085323</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.462179</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.462179,35.085323,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>山切自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第49投票区<br>address: 静岡市清水区山切９８０番地の１<br>lat: 35.060173<br>lon: 138.483626]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第49投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区山切９８０番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.060173</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.483626</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.483626,35.060173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>尾羽自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第50投票区<br>address: 静岡市清水区尾羽３３７番地の１<br>lat: 35.0454<br>lon: 138.490911]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第50投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区尾羽３３７番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0454</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.490911</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.490911,35.0454,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>茂畑自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第51投票区<br>address: 静岡市清水区茂畑２４７番地の１<br>lat: 35.074878<br>lon: 138.494288]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第51投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区茂畑２４７番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.074878</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.494288</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.494288,35.074878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>興津清見寺町公民館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第52投票区<br>address: 静岡市清水区興津清見寺町１１５番地<br>lat: 35.046587<br>lon: 138.5110886]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第52投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区興津清見寺町１１５番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.046587</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5110886</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5110886,35.046587,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>興津本町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第53投票区<br>address: 静岡市清水区興津本町１６８番地<br>lat: 35.0489173<br>lon: 138.5172935]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第53投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区興津本町１６８番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0489173</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5172935</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5172935,35.0489173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水興津小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第54投票区<br>address: 静岡市清水区興津中町３５０番地の１<br>lat: 35.0548583<br>lon: 138.5259341]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第54投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区興津中町３５０番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0548583</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5259341</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5259341,35.0548583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>興津東町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第55投票区<br>address: 静岡市清水区興津東町８９１番地の２地先<br>lat: 35.06048<br>lon: 138.533435]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第55投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区興津東町８９１番地の２地先</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.06048</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.533435</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.533435,35.06048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>興津井上町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第56投票区<br>address: 静岡市清水区興津井上町１２０番地<br>lat: 35.071426<br>lon: 138.528076]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第56投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区興津井上町１２０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.071426</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.528076</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.528076,35.071426,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>承元寺町公民館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第57投票区<br>address: 静岡市清水区承元寺町２８９番地<br>lat: 35.081638<br>lon: 138.521901]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第57投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区承元寺町２８９番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.081638</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.521901</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.521901,35.081638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>谷津町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第58投票区<br>address: 静岡市清水区谷津町一丁目３６０番地<br>lat: 35.074695<br>lon: 138.520791]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第58投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区谷津町一丁目３６０番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.074695</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.520791</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.520791,35.074695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>八木間町自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第59投票区<br>address: 静岡市清水区八木間町４７６番地の２<br>lat: 35.0657236<br>lon: 138.5213815]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第59投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区八木間町４７６番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0657236</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5213815</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5213815,35.0657236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水小島小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第60投票区<br>address: 静岡市清水区小島町６１９番地<br>lat: 35.0918953<br>lon: 138.5151726]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第60投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区小島町６１９番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0918953</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5151726</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5151726,35.0918953,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水小島中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第61投票区<br>address: 静岡市清水区但沼町２７１番地<br>lat: 35.1016599<br>lon: 138.51062]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第61投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区但沼町２７１番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1016599</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.51062</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.51062,35.1016599,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水小河内こども園</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第62投票区<br>address: 静岡市清水区小河内２６９３番地の２<br>lat: 35.119897<br>lon: 138.5103472]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第62投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区小河内２６９３番地の２</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.119897</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5103472</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5103472,35.119897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小河内北部会館（旧坂本報徳会館）</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第63投票区<br>address: 静岡市清水区小河内５２９番地<br>lat: 35.133124<br>lon: 138.52034]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第63投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区小河内５２９番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.133124</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.52034</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.52034,35.133124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水宍原小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第64投票区<br>address: 静岡市清水区宍原９１９番地<br>lat: 35.1599612<br>lon: 138.5185565]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第64投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区宍原９１９番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1599612</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5185565</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5185565,35.1599612,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水中河内小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第65投票区<br>address: 静岡市清水区中河内２５８３番地の１<br>lat: 35.1370663<br>lon: 138.4707349]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第65投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区中河内２５８３番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1370663</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4707349</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4707349,35.1370663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水両河内中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第66投票区<br>address: 静岡市清水区和田島３０３番地<br>lat: 35.1077647<br>lon: 138.4789295]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第66投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区和田島３０３番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1077647</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4789295</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4789295,35.1077647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立清水西河内小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第67投票区<br>address: 静岡市清水区西里１４３番地<br>lat: 35.1217955<br>lon: 138.4435156]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第67投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区西里１４３番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1217955</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.4435156</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.4435156,35.1217955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立蒲原中学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第68投票区<br>address: 静岡市清水区蒲原４９番地<br>lat: 35.1241932<br>lon: 138.6196824]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第68投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区蒲原４９番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1241932</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.6196824</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6196824,35.1241932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立蒲原東小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第69投票区<br>address: 静岡市清水区蒲原６６６番地<br>lat: 35.1170243<br>lon: 138.6090195]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第69投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区蒲原６６６番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1170243</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.6090195</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6090195,35.1170243,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>本町会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第70投票区<br>address: 静岡市清水区蒲原三丁目１７番２４号<br>lat: 35.1199489<br>lon: 138.6053309]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第70投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区蒲原三丁目１７番２４号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1199489</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.6053309</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.6053309,35.1199489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>清水区役所蒲原支所</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第71投票区<br>address: 静岡市清水区蒲原新田一丁目２１番１号<br>lat: 35.116383<br>lon: 138.59537]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第71投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区蒲原新田一丁目２１番１号</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.116383</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.59537</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.59537,35.116383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中公民館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第72投票区<br>address: 静岡市清水区蒲原中６０４番地の１<br>lat: 35.1161158<br>lon: 138.587302]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第72投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区蒲原中６０４番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1161158</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.587302</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.587302,35.1161158,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市蒲原西部コミュニティセンター</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第73投票区<br>address: 静岡市清水区蒲原堰沢４５５番地の１<br>lat: 35.1150799<br>lon: 138.5813442]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第73投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区蒲原堰沢４５５番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1150799</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5813442</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5813442,35.1150799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>由比自治会公会堂</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第74投票区<br>address: 静岡市清水区由比６７３番地の６<br>lat: 35.1089559<br>lon: 138.567676]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第74投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区由比６７３番地の６</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1089559</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.567676</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.567676,35.1089559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>由比生涯学習交流館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第75投票区<br>address: 静岡市清水区由比北田４５７番地の１<br>lat: 35.1069453<br>lon: 138.5623431]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第75投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区由比北田４５７番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1069453</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5623431</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5623431,35.1069453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立由比小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第76投票区<br>address: 静岡市清水区由比町屋原３２９番地<br>lat: 35.1082951<br>lon: 138.5576241]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第76投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区由比町屋原３２９番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1082951</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5576241</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5576241,35.1082951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>由比今宿自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第77投票区<br>address: 静岡市清水区由比今宿３６８番地の１０<br>lat: 35.1027545<br>lon: 138.5552299]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第77投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区由比今宿３６８番地の１０</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1027545</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5552299</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5552299,35.1027545,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>由比寺尾自治会館</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第78投票区<br>address: 静岡市清水区由比寺尾４６２番地の１<br>lat: 35.0919884<br>lon: 138.5482791]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第78投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区由比寺尾４６２番地の１</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0919884</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.5482791</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5482791,35.0919884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡市立由比北小学校</name>
+			<description><![CDATA[ward: 清水区<br>name_area: 第79投票区<br>address: 静岡市清水区由比入山２１５８番地<br>lat: 35.1293109<br>lon: 138.556677]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>清水区</value>
+				</Data>
+				<Data name='name_area'>
+					<value>第79投票区</value>
+				</Data>
+				<Data name='address'>
+					<value>静岡市清水区由比入山２１５８番地</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1293109</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.556677</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.556677,35.1293109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
