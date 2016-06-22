@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>jp_shizuoka_kosai_tohyojo201605.csv</name>
+		<Placemark>
+			<name>表鷲津コミュニティ防災センター</name>
+			<description><![CDATA[投票区: 1<br>住所: 鷲津2837番地<br>自治会(町内会)名など: 表鷲津<br>備考: <br>掲載期限: <br>経度: 137.5577742<br>緯度: 34.71465567]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>1.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>鷲津2837番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>表鷲津</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5577742</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.71465567</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5577742,34.71465567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>鷲津コミュニティ防災センター</name>
+			<description><![CDATA[投票区: 2<br>住所: 鷲津1163番地の2<br>自治会(町内会)名など: 鷲津(旭町･分川･東町1丁目･東町2丁目･東町3丁目･田町)<br>備考: <br>掲載期限: <br>経度: 137.5490566<br>緯度: 34.70744977]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>2.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>鷲津1163番地の2</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>鷲津(旭町･分川･東町1丁目･東町2丁目･東町3丁目･田町)</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5490566</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.70744977</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5490566,34.70744977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>鷲津小学校体育館</name>
+			<description><![CDATA[投票区: 3<br>住所: 鷲津670番地<br>自治会(町内会)名など: 鷲津(八幡町･横須賀町･仲町･栄町1丁目･栄町2丁目･栄町3丁目)<br>河美(本一東･本一西･本二･本三･みのわ)<br>備考: <br>掲載期限: <br>経度: 137.5447723<br>緯度: 34.70944337]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>3.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>鷲津670番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>鷲津(八幡町･横須賀町･仲町･栄町1丁目･栄町2丁目･栄町3丁目)
+河美(本一東･本一西･本二･本三･みのわ)</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5447723</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.70944337</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5447723,34.70944337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>河原公民館</name>
+			<description><![CDATA[投票区: 4<br>住所: 鷲津194番地の19<br>自治会(町内会)名など: 河美(河原南1丁目･河原南2丁目･河原中･河原東･河原西)<br>備考: <br>掲載期限: <br>経度: 137.5428359<br>緯度: 34.71900405]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>4.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>鷲津194番地の19</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>河美(河原南1丁目･河原南2丁目･河原中･河原東･河原西)</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5428359</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.71900405</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5428359,34.71900405,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>古見公会堂</name>
+			<description><![CDATA[投票区: 5<br>住所: 古見895番地の6<br>自治会(町内会)名など: 古見<br>備考: <br>掲載期限: <br>経度: 137.5379831<br>緯度: 34.71154715]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>5.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>古見895番地の6</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>古見</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5379831</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.71154715</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5379831,34.71154715,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>川尻公会堂</name>
+			<description><![CDATA[投票区: 6<br>住所: 吉美2798番地の1<br>自治会(町内会)名など: 川尻<br>備考: <br>掲載期限: <br>経度: 137.5284471<br>緯度: 34.7141228]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>6.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>吉美2798番地の1</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>川尻</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5284471</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.7141228</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5284471,34.7141228,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>市場公会堂</name>
+			<description><![CDATA[投票区: 7<br>住所: 吉美1570番地<br>自治会(町内会)名など: 市場･山口･坊瀬(在外選挙人)<br>備考: <br>掲載期限: <br>経度: 137.5230552<br>緯度: 34.71002384]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>7.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>吉美1570番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>市場･山口･坊瀬(在外選挙人)</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5230552</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.71002384</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5230552,34.71002384,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>１区公会堂</name>
+			<description><![CDATA[投票区: 8<br>住所: 白須賀141番地<br>自治会(町内会)名など: 白須賀第1<br>備考: <br>掲載期限: <br>経度: 137.531992<br>緯度: 34.67870811]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>8.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>白須賀141番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>白須賀第1</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.531992</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.67870811</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.531992,34.67870811,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>宮本集落センター</name>
+			<description><![CDATA[投票区: 9<br>住所: 白須賀499番地<br>自治会(町内会)名など: 白須賀第2<br>備考: <br>掲載期限: <br>経度: 137.5217364<br>緯度: 34.67654027]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>9.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>白須賀499番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>白須賀第2</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5217364</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.67654027</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5217364,34.67654027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>白須賀幼稚園遊戯室</name>
+			<description><![CDATA[投票区: 10<br>住所: 白須賀4804番地の1<br>自治会(町内会)名など: 白須賀第3･白須賀第4(東伝馬･中伝馬･西伝馬)<br>備考: <br>掲載期限: <br>経度: 137.5065231<br>緯度: 34.68448483]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>10.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>白須賀4804番地の1</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>白須賀第3･白須賀第4(東伝馬･中伝馬･西伝馬)</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5065231</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.68448483</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5065231,34.68448483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5区公会堂</name>
+			<description><![CDATA[投票区: 11<br>住所: 白須賀3010番地の3<br>自治会(町内会)名など: 白須賀第5<br>備考: <br>掲載期限: <br>経度: 137.4996621<br>緯度: 34.68199862]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>11.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>白須賀3010番地の3</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>白須賀第5</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.4996621</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.68199862</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.4996621,34.68199862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>境宿公会堂</name>
+			<description><![CDATA[投票区: 12<br>住所: 境宿86番地の1<br>自治会(町内会)名など: 白須賀第4(高見･西町･船ｹ谷･笠子･笠子北)・白須賀第6<br>備考: <br>掲載期限: <br>経度: 137.4996959<br>緯度: 34.69082718]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>12.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>境宿86番地の1</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>白須賀第4(高見･西町･船ｹ谷･笠子･笠子北)・白須賀第6</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.4996959</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.69082718</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.4996959,34.69082718,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>梅田コミュニティセンター</name>
+			<description><![CDATA[投票区: 13<br>住所: 梅田124番地の2<br>自治会(町内会)名など: 梅田<br>備考: <br>掲載期限: <br>経度: 137.4879348<br>緯度: 34.73116187]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>13.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>梅田124番地の2</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>梅田</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.4879348</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.73116187</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.4879348,34.73116187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新所原ふれあい会館</name>
+			<description><![CDATA[投票区: 14<br>住所: 新所原三丁目3番13号<br>自治会(町内会)名など: 新所原<br>備考: <br>掲載期限: <br>経度: 137.4888143<br>緯度: 34.71998431]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>14.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新所原三丁目3番13号</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>新所原</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.4888143</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.71998431</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.4888143,34.71998431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西部公民館大ホール</name>
+			<description><![CDATA[投票区: 15<br>住所: 駅南二丁目4番1号<br>自治会(町内会)名など: 南上の原第1･南上の原第2･南上の原第3<br>備考: <br>掲載期限: <br>経度: 137.4899811<br>緯度: 34.71910677]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>15.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>駅南二丁目4番1号</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>南上の原第1･南上の原第2･南上の原第3</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.4899811</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.71910677</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.4899811,34.71910677,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>岡崎中学校クラブハウス</name>
+			<description><![CDATA[投票区: 16<br>住所: 岡崎587番地の2<br>自治会(町内会)名など: 上の原･大森･岡崎<br>備考: <br>掲載期限: <br>経度: 137.5058009<br>緯度: 34.72378217]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>16.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>岡崎587番地の2</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>上の原･大森･岡崎</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5058009</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.72378217</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5058009,34.72378217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新所幼稚園遊戯室</name>
+			<description><![CDATA[投票区: 17<br>住所: 新所2820番地<br>自治会(町内会)名など: 新所<br>備考: <br>掲載期限: <br>経度: 137.5374262<br>緯度: 34.73060456]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>17.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新所2820番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>新所</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5374262</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.73060456</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5374262,34.73060456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>湖西市はつらつセンター</name>
+			<description><![CDATA[投票区: 18<br>住所: 入出1801番地<br>自治会(町内会)名など: 入出<br>備考: <br>掲載期限: <br>経度: 137.5319482<br>緯度: 34.74687663]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>18.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>入出1801番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>入出</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5319482</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.74687663</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5319482,34.74687663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>湖西中学校武道場</name>
+			<description><![CDATA[投票区: 19<br>住所: 太田135番地<br>自治会(町内会)名など: 神座･太田<br>備考: <br>掲載期限: <br>経度: 137.5190434<br>緯度: 34.74012187]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>19.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>太田135番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>神座･太田</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5190434</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.74012187</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5190434,34.74012187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>知波田小学校体育館</name>
+			<description><![CDATA[投票区: 20<br>住所: 大知波1144番地<br>自治会(町内会)名など: 青平･大知波<br>備考: <br>掲載期限: <br>経度: 137.5133491<br>緯度: 34.75538726]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>20.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>大知波1144番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>青平･大知波</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5133491</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.75538726</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5133491,34.75538726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>利木集会所</name>
+			<description><![CDATA[投票区: 21<br>住所: 利木164番地の4<br>自治会(町内会)名など: 利木･横山<br>備考: <br>掲載期限: <br>経度: 137.5205998<br>緯度: 34.75642068]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>21.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>利木164番地の4</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>利木･横山</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5205998</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.75642068</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5205998,34.75642068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>泉町公民館</name>
+			<description><![CDATA[投票区: 22<br>住所: 新居町新居1314番地<br>自治会(町内会)名など: 新居東(栄町)・町中(泉町･船町)<br>備考: <br>掲載期限: <br>経度: 137.5612815<br>緯度: 34.6916944]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>22.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町新居1314番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>新居東(栄町)・町中(泉町･船町)</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5612815</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.6916944</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5612815,34.6916944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>内山保育園</name>
+			<description><![CDATA[投票区: 23<br>住所: 新居町内山145番地<br>自治会(町内会)名など: 町中(俵町)･中田中町･西三町(高見)・内山<br>備考: <br>掲載期限: <br>経度: 137.5604481<br>緯度: 34.68813032]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>23.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町内山145番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>町中(俵町)･中田中町･西三町(高見)・内山</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5604481</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.68813032</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5604481,34.68813032,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新居幼稚園</name>
+			<description><![CDATA[投票区: 24<br>住所: 新居町新居1730番地<br>自治会(町内会)名など: 西三町(上田町･西町)･源太山<br>備考: <br>掲載期限: <br>経度: 137.5636841<br>緯度: 34.68668307]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>24.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町新居1730番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>西三町(上田町･西町)･源太山</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5636841</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.68668307</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5636841,34.68668307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>新居保育園遊戯室</name>
+			<description><![CDATA[投票区: 25<br>住所: 新居町新居612番地の2<br>自治会(町内会)名など: 新居東(向島･新弁天)･柏原ベイリーフ･新居南(港町)<br>備考: <br>掲載期限: <br>経度: 137.5776144<br>緯度: 34.6837665]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>25.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町新居612番地の2</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>新居東(向島･新弁天)･柏原ベイリーフ･新居南(港町)</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5776144</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.6837665</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5776144,34.6837665,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>若磯公民館</name>
+			<description><![CDATA[投票区: 26<br>住所: 新居町浜名1231番地<br>自治会(町内会)名など: 橋本･西浜名<br>備考: <br>掲載期限: <br>経度: 137.5580758<br>緯度: 34.68485791]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>26.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町浜名1231番地</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>橋本･西浜名</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5580758</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.68485791</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5580758,34.68485791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>住吉公民館</name>
+			<description><![CDATA[投票区: 27<br>住所: 新居町新居3033番地の9<br>自治会(町内会)名など: 新居南(ひばりケ丘･新居弁天)･住吉<br>備考: <br>掲載期限: <br>経度: 137.5730119<br>緯度: 34.67905784]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>27.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町新居3033番地の9</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>新居南(ひばりケ丘･新居弁天)･住吉</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5730119</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.67905784</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5730119,34.67905784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>郷南公民館</name>
+			<description><![CDATA[投票区: 28<br>住所: 新居町中之郷3621番地の67<br>自治会(町内会)名など: 郷南･郷北<br>備考: <br>掲載期限: <br>経度: 137.5669342<br>緯度: 34.69664191]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>28.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町中之郷3621番地の67</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>郷南･郷北</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5669342</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.69664191</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5669342,34.69664191,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>三ツ谷公民館</name>
+			<description><![CDATA[投票区: 29<br>住所: 新居町中之郷1047番地の1<br>自治会(町内会)名など: 三ツ谷あけぼの<br>備考: <br>掲載期限: <br>経度: 137.5583527<br>緯度: 34.69732507]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>29.0</value>
+				</Data>
+				<Data name='住所'>
+					<value>新居町中之郷1047番地の1</value>
+				</Data>
+				<Data name='自治会(町内会)名など'>
+					<value>三ツ谷あけぼの</value>
+				</Data>
+				<Data name='備考'>
+					<value></value>
+				</Data>
+				<Data name='掲載期限'>
+					<value></value>
+				</Data>
+				<Data name='経度'>
+					<value>137.5583527</value>
+				</Data>
+				<Data name='緯度'>
+					<value>34.69732507</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.5583527,34.69732507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
