@@ -1,0 +1,726 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>pollingplace_city_mishima.csv</name>
+		<Placemark>
+			<name>西小学校</name>
+			<description><![CDATA[投票区: 第1投票区<br>lon: 138.9089685<br>lat: 35.116393<br>地区: 加屋町、清住町、三好町、西本町、緑町、南町、広小路町８～１３]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第1投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9089685</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.116393</value>
+				</Data>
+				<Data name='地区'>
+					<value>加屋町、清住町、三好町、西本町、緑町、南町、広小路町８～１３</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9089685,35.116393,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西幼稚園</name>
+			<description><![CDATA[投票区: 第2投票区<br>lon: 138.9085112<br>lat: 35.1199829<br>地区: 栄町、西若町、広小路町１～７、泉町、寿町]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第2投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9085112</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1199829</value>
+				</Data>
+				<Data name='地区'>
+					<value>栄町、西若町、広小路町１～７、泉町、寿町</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9085112,35.1199829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>長伏小学校</name>
+			<description><![CDATA[投票区: 第3投票区<br>lon: 138.914656<br>lat: 35.0853381<br>地区: 松本、長伏、御園]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第3投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.914656</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0853381</value>
+				</Data>
+				<Data name='地区'>
+					<value>松本、長伏、御園</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.914656,35.0853381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>福祉会館</name>
+			<description><![CDATA[投票区: 第4投票区<br>lon: 138.9152074<br>lat: 35.1183386<br>地区: 本町、南本町、中田町]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第4投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9152074</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1183386</value>
+				</Data>
+				<Data name='地区'>
+					<value>本町、南本町、中田町</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9152074,35.1183386,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>市役所</name>
+			<description><![CDATA[投票区: 第5投票区<br>lon: 138.9185756<br>lat: 35.1184043<br>地区: 中央町、北田町、大宮町１丁目１～３・９～１１、大宮町２丁目１～７・１０・１１、大社町１～６・１６～１８、東本町１丁目１～１２・１６]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第5投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9185756</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1184043</value>
+				</Data>
+				<Data name='地区'>
+					<value>中央町、北田町、大宮町１丁目１～３・９～１１、大宮町２丁目１～７・１０・１１、大社町１～６・１６～１８、東本町１丁目１～１２・１６</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9185756,35.1184043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>南中学校</name>
+			<description><![CDATA[投票区: 第6投票区<br>lon: 138.9182293<br>lat: 35.1087592<br>地区: 南田町、富田町、新谷、玉川、平田]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第6投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9182293</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1087592</value>
+				</Data>
+				<Data name='地区'>
+					<value>南田町、富田町、新谷、玉川、平田</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9182293,35.1087592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東小学校</name>
+			<description><![CDATA[投票区: 第7投票区<br>lon: 138.9245382<br>lat: 35.1179831<br>地区: 大社町７～１５、東本町１丁目１３～１５、日の出町、東町、谷田（雪沢）、川原ヶ谷、川原ヶ谷（愛宕）]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第7投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9245382</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1179831</value>
+				</Data>
+				<Data name='地区'>
+					<value>大社町７～１５、東本町１丁目１３～１５、日の出町、東町、谷田（雪沢）、川原ヶ谷、川原ヶ谷（愛宕）</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9245382,35.1179831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>市立図書館</name>
+			<description><![CDATA[投票区: 第8投票区<br>lon: 138.9154705<br>lat: 35.1232996<br>地区: 芝本町、一番町、大宮町１丁目４～８、大宮町２丁目８・９・１２～１６、大宮町３丁目、（加茂川町）、加茂川町]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第8投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9154705</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1232996</value>
+				</Data>
+				<Data name='地区'>
+					<value>芝本町、一番町、大宮町１丁目４～８、大宮町２丁目８・９・１２～１６、大宮町３丁目、（加茂川町）、加茂川町</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9154705,35.1232996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北中学校</name>
+			<description><![CDATA[投票区: 第9投票区<br>lon: 138.9151481<br>lat: 35.130493<br>地区: 文教町１丁目、文教町２丁目、壱町田、末広町、東壱町田]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第9投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9151481</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.130493</value>
+				</Data>
+				<Data name='地区'>
+					<value>文教町１丁目、文教町２丁目、壱町田、末広町、東壱町田</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9151481,35.130493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>沢地小学校</name>
+			<description><![CDATA[投票区: 第10投票区<br>lon: 138.9263924<br>lat: 35.1405228<br>地区: 沢地、千枚原、富士ビレッジ、平成台]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第10投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9263924</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1405228</value>
+				</Data>
+				<Data name='地区'>
+					<value>沢地、千枚原、富士ビレッジ、平成台</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9263924,35.1405228,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>徳倉小学校</name>
+			<description><![CDATA[投票区: 第11投票区<br>lon: 138.9131153<br>lat: 35.1422377<br>地区: 徳倉１丁目、徳倉２丁目、徳倉３丁目、徳倉４丁目、徳倉２００～３９９]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第11投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9131153</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1422377</value>
+				</Data>
+				<Data name='地区'>
+					<value>徳倉１丁目、徳倉２丁目、徳倉３丁目、徳倉４丁目、徳倉２００～３９９</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9131153,35.1422377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>北上小学校</name>
+			<description><![CDATA[投票区: 第12投票区<br>lon: 138.9134674<br>lat: 35.1492807<br>地区: 徳倉５丁目、萩、徳倉（１～５丁目以外）〈一部除く〉]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第12投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9134674</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1492807</value>
+				</Data>
+				<Data name='地区'>
+					<value>徳倉５丁目、萩、徳倉（１～５丁目以外）〈一部除く〉</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9134674,35.1492807,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>佐野小学校</name>
+			<description><![CDATA[投票区: 第13投票区<br>lon: 138.9241229<br>lat: 35.1685263<br>地区: 佐野〈一部除く〉]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第13投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9241229</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1685263</value>
+				</Data>
+				<Data name='地区'>
+					<value>佐野〈一部除く〉</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9241229,35.1685263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>向山小学校</name>
+			<description><![CDATA[投票区: 第14投票区<br>lon: 138.93842<br>lat: 35.10459<br>地区: 谷田（夏梅木）〈一部除く〉、中、錦が丘、北沢]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第14投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.93842</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.10459</value>
+				</Data>
+				<Data name='地区'>
+					<value>谷田（夏梅木）〈一部除く〉、中、錦が丘、北沢</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.93842,35.10459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>錦田公民館</name>
+			<description><![CDATA[投票区: 第15投票区<br>lon: 138.9364972<br>lat: 35.1138225<br>地区: 谷田〈一部除く〉、谷田（御門）、谷田（夏梅木）８４４、竹倉、谷田（並木）、柳郷地、谷田（阿部野）]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第15投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9364972</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1138225</value>
+				</Data>
+				<Data name='地区'>
+					<value>谷田〈一部除く〉、谷田（御門）、谷田（夏梅木）８４４、竹倉、谷田（並木）、柳郷地、谷田（阿部野）</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9364972,35.1138225,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>玉沢覚林院</name>
+			<description><![CDATA[投票区: 第16投票区<br>lon: 138.9613389<br>lat: 35.123403<br>地区: 玉沢]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第16投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9613389</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.123403</value>
+				</Data>
+				<Data name='地区'>
+					<value>玉沢</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9613389,35.123403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>錦田中学校</name>
+			<description><![CDATA[投票区: 第17投票区<br>lon: 138.9382471<br>lat: 35.1218372<br>地区: 谷田１５７７～１７４１、谷田（遺伝学）、谷田（桜ヶ丘）、谷田（塚の台）、川原ヶ谷（塚の台）、松が丘、川原ヶ谷（緑ヶ丘）、塚原新田]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第17投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9382471</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1218372</value>
+				</Data>
+				<Data name='地区'>
+					<value>谷田１５７７～１７４１、谷田（遺伝学）、谷田（桜ヶ丘）、谷田（塚の台）、川原ヶ谷（塚の台）、松が丘、川原ヶ谷（緑ヶ丘）、塚原新田</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9382471,35.1218372,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>山田小学校</name>
+			<description><![CDATA[投票区: 第18投票区<br>lon: 138.934196<br>lat: 35.1333015<br>地区: 川原ヶ谷（初音）、初音台、川原ヶ谷（山田）、川原ヶ谷（小沢）、（旭ヶ丘町）、（西旭ヶ丘町）、旭ヶ丘、三恵台]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第18投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.934196</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1333015</value>
+				</Data>
+				<Data name='地区'>
+					<value>川原ヶ谷（初音）、初音台、川原ヶ谷（山田）、川原ヶ谷（小沢）、（旭ヶ丘町）、（西旭ヶ丘町）、旭ヶ丘、三恵台</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.934196,35.1333015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>坂公民館</name>
+			<description><![CDATA[投票区: 第19投票区<br>lon: 138.9621529<br>lat: 35.138201<br>地区: 谷田（台崎）、川原ヶ谷（元山中）、市山新田、三ツ谷新田、笹原新田〈一部除く〉]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第19投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9621529</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.138201</value>
+				</Data>
+				<Data name='地区'>
+					<value>谷田（台崎）、川原ヶ谷（元山中）、市山新田、三ツ谷新田、笹原新田〈一部除く〉</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9621529,35.138201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>山中公民館</name>
+			<description><![CDATA[投票区: 第20投票区<br>lon: 138.992421<br>lat: 35.1563978<br>地区: 笹原新田４７４５、（山中新田）、山中新田、芦ノ湖高原別荘地]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第20投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.992421</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1563978</value>
+				</Data>
+				<Data name='地区'>
+					<value>笹原新田４７４５、（山中新田）、山中新田、芦ノ湖高原別荘地</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.992421,35.1563978,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中郷中学校</name>
+			<description><![CDATA[投票区: 第21投票区<br>lon: 138.9360263<br>lat: 35.0938351<br>地区: 中島、大場〈一部除く〉、多呂]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第21投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9360263</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0938351</value>
+				</Data>
+				<Data name='地区'>
+					<value>中島、大場〈一部除く〉、多呂</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9360263,35.0938351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中郷小学校</name>
+			<description><![CDATA[投票区: 第22投票区<br>lon: 138.9275895<br>lat: 35.0948744<br>地区: 梅名、八反畑、安久]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第22投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9275895</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.0948744</value>
+				</Data>
+				<Data name='地区'>
+					<value>梅名、八反畑、安久</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9275895,35.0948744,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>保健センター</name>
+			<description><![CDATA[投票区: 第23投票区<br>lon: 138.9246928<br>lat: 35.1109088<br>地区: 東本町２丁目、南二日町]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第23投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9246928</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1109088</value>
+				</Data>
+				<Data name='地区'>
+					<value>東本町２丁目、南二日町</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9246928,35.1109088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>幸原公民館</name>
+			<description><![CDATA[投票区: 第24投票区<br>lon: 138.9129238<br>lat: 35.1376193<br>地区: 幸原町１丁目、幸原町２丁目]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第24投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9129238</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1376193</value>
+				</Data>
+				<Data name='地区'>
+					<value>幸原町１丁目、幸原町２丁目</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9129238,35.1376193,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>光ヶ丘公民館</name>
+			<description><![CDATA[投票区: 第25投票区<br>lon: 138.9260487<br>lat: 35.1350386<br>地区: （若松町）４３８２・４３９５・４６６７〈青葉台〉、（光ヶ丘）、光ヶ丘（１丁目）、光ヶ丘（２丁目）、光ヶ丘（３丁目）]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第25投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9260487</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1350386</value>
+				</Data>
+				<Data name='地区'>
+					<value>（若松町）４３８２・４３９５・４６６７〈青葉台〉、（光ヶ丘）、光ヶ丘（１丁目）、光ヶ丘（２丁目）、光ヶ丘（３丁目）</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9260487,35.1350386,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>加茂集会所</name>
+			<description><![CDATA[投票区: 第26投票区<br>lon: 138.929296<br>lat: 35.1326647<br>地区: （若松町）〈一部除く〉、（加茂）、加茂、富士見台]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第26投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.929296</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1326647</value>
+				</Data>
+				<Data name='地区'>
+					<value>（若松町）〈一部除く〉、（加茂）、加茂、富士見台</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.929296,35.1326647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>小山中島公民館</name>
+			<description><![CDATA[投票区: 第27投票区<br>lon: 138.9318703<br>lat: 35.117979<br>地区: 谷田（小山）、谷田（小山中島）、谷田（小山押切）、谷田（東富士見）、谷田（西富士見）、谷田（小山台）]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第27投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9318703</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.117979</value>
+				</Data>
+				<Data name='地区'>
+					<value>谷田（小山）、谷田（小山中島）、谷田（小山押切）、谷田（東富士見）、谷田（西富士見）、谷田（小山台）</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9318703,35.117979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>芙蓉台公民館</name>
+			<description><![CDATA[投票区: 第28投票区<br>lon: 138.917587<br>lat: 35.1559098<br>地区: 佐野１２０７〈一部〉、芙蓉台１丁目、芙蓉台２丁目、芙蓉台３丁目]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第28投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.917587</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1559098</value>
+				</Data>
+				<Data name='地区'>
+					<value>佐野１２０７〈一部〉、芙蓉台１丁目、芙蓉台２丁目、芙蓉台３丁目</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.917587,35.1559098,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>青木公民館</name>
+			<description><![CDATA[投票区: 第29投票区<br>lon: 138.9211683<br>lat: 35.1053922<br>地区: 鶴喰、青木、藤代町、中（東藤代町）、青木（東藤代町）]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第29投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9211683</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1053922</value>
+				</Data>
+				<Data name='地区'>
+					<value>鶴喰、青木、藤代町、中（東藤代町）、青木（東藤代町）</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9211683,35.1053922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東大場集会所</name>
+			<description><![CDATA[投票区: 第30投票区<br>lon: 138.9517563<br>lat: 35.1092263<br>地区: 大場１０８６・１０８７、東大場１丁目、東大場２丁目]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第30投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9517563</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1092263</value>
+				</Data>
+				<Data name='地区'>
+					<value>大場１０８６・１０８７、東大場１丁目、東大場２丁目</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9517563,35.1092263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>見晴台自治会館</name>
+			<description><![CDATA[投票区: 第31投票区<br>lon: 138.9439995<br>lat: 35.1644547<br>地区: 佐野１６４７〈一部〉、佐野見晴台１丁目、佐野見晴台２丁目]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='投票区'>
+					<value>第31投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.9439995</value>
+				</Data>
+				<Data name='lat'>
+					<value>35.1644547</value>
+				</Data>
+				<Data name='地区'>
+					<value>佐野１６４７〈一部〉、佐野見晴台１丁目、佐野見晴台２丁目</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.9439995,35.1644547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
