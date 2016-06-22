@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>pollingplace - kakegawa.csv</name>
+		<Placemark>
+			<name>喜町区公会堂</name>
+			<description><![CDATA[ward: 第1投票区<br>lon: 138.0212549<br>lat: 34.7724711<br>address: 掛川市喜町3-6<br>area: 塩町、喜町、新町、道神町、六軒町、葛川]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第1投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0212549</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7724711</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市喜町3-6</value>
+				</Data>
+				<Data name='area'>
+					<value>塩町、喜町、新町、道神町、六軒町、葛川</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0212549,34.7724711,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立第一小学校</name>
+			<description><![CDATA[ward: 第2投票区<br>lon: 138.0175818<br>lat: 34.7769139<br>address: 掛川市掛川1108-1<br>area: 仁藤町、肴町、神明町、旭町、栄町、紺屋町、中町、緑町、連雀、大手町、松尾、城内、旭ヶ丘]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第2投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0175818</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7769139</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市掛川1108-1</value>
+				</Data>
+				<Data name='area'>
+					<value>仁藤町、肴町、神明町、旭町、栄町、紺屋町、中町、緑町、連雀、大手町、松尾、城内、旭ヶ丘</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0175818,34.7769139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川商工会議所</name>
+			<description><![CDATA[ward: 第3投票区<br>lon: 138.0124789<br>lat: 34.7739803<br>address: 掛川市掛川551-2<br>area: 研屋町、西町、瓦町、城西]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第3投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0124789</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7739803</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市掛川551-2</value>
+				</Data>
+				<Data name='area'>
+					<value>研屋町、西町、瓦町、城西</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0124789,34.7739803,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>中宿公民館</name>
+			<description><![CDATA[ward: 第4投票区<br>lon: 138.0076624<br>lat: 34.7807618<br>address: 掛川市中宿21<br>area: 北門、下西郷雇用促進住宅、城北町、弥生町、下西郷、下西郷西]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第4投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0076624</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7807618</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市中宿21</value>
+				</Data>
+				<Data name='area'>
+					<value>北門、下西郷雇用促進住宅、城北町、弥生町、下西郷、下西郷西</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0076624,34.7807618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立中央小学校</name>
+			<description><![CDATA[ward: 第5投票区<br>lon: 138.0046637<br>lat: 34.770298<br>address: 掛川市下俣633<br>area: 十王、下俣町、十九首、小鷹町、中央1丁目、中央2丁目、中央3丁目、中央高町]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第5投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0046637</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.770298</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市下俣633</value>
+				</Data>
+				<Data name='area'>
+					<value>十王、下俣町、十九首、小鷹町、中央1丁目、中央2丁目、中央3丁目、中央高町</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0046637,34.770298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西南郷地域生涯学習センター</name>
+			<description><![CDATA[ward: 第6投票区<br>lon: 138.0115679<br>lat: 34.7644579<br>address: 掛川市久保2丁目3-1<br>area: 下俣、久保、亀の甲、神代地、結縁寺]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第6投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0115679</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7644579</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市久保2丁目3-1</value>
+				</Data>
+				<Data name='area'>
+					<value>下俣、久保、亀の甲、神代地、結縁寺</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0115679,34.7644579,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立第二小学校</name>
+			<description><![CDATA[ward: 第7投票区<br>lon: 137.9943055<br>lat: 34.7749531<br>address: 掛川市大池438-1<br>area: 二瀬川、上屋敷、秋葉通り、鳥居町、橘町、末広町、長谷、七日町、秋葉路]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第7投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9943055</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7749531</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市大池438-1</value>
+				</Data>
+				<Data name='area'>
+					<value>二瀬川、上屋敷、秋葉通り、鳥居町、橘町、末広町、長谷、七日町、秋葉路</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9943055,34.7749531,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>静岡県立掛川工業高等学校</name>
+			<description><![CDATA[ward: 第8投票区<br>lon: 138.0284711<br>lat: 34.7701953<br>address: 掛川市葵町15-1<br>area: 杉谷、上張、新道、緑ヶ丘第一、緑ヶ丘第二、矢崎、葵町、杉谷南、青葉台]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第8投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0284711</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7701953</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市葵町15-1</value>
+				</Data>
+				<Data name='area'>
+					<value>杉谷、上張、新道、緑ヶ丘第一、緑ヶ丘第二、矢崎、葵町、杉谷南、青葉台</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0284711,34.7701953,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>上内田地域生涯学習センター</name>
+			<description><![CDATA[ward: 第9投票区<br>lon: 138.0422064<br>lat: 34.7472229<br>address: 掛川市上内田931-2<br>area: 桶田、五百済、段金谷、下板沢、上板沢、和田、子隣、岩井寺、大谷、城山]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第9投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0422064</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7472229</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市上内田931-2</value>
+				</Data>
+				<Data name='area'>
+					<value>桶田、五百済、段金谷、下板沢、上板沢、和田、子隣、岩井寺、大谷、城山</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0422064,34.7472229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立西山口小学校</name>
+			<description><![CDATA[ward: 第10投票区<br>lon: 138.0365527<br>lat: 34.7788823<br>address: 掛川市成滝145<br>area: 満水、薗ヶ谷、宮脇、成滝、金城]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第10投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0365527</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7788823</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市成滝145</value>
+				</Data>
+				<Data name='area'>
+					<value>満水、薗ヶ谷、宮脇、成滝、金城</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0365527,34.7788823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>水垂公民館</name>
+			<description><![CDATA[ward: 第11投票区<br>lon: 138.0262305<br>lat: 34.7907242<br>address: 掛川市水垂838<br>area: 水垂、初馬、葛ヶ丘]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第11投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0262305</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7907242</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市水垂838</value>
+				</Data>
+				<Data name='area'>
+					<value>水垂、初馬、葛ヶ丘</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0262305,34.7907242,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立さかがわ幼稚園</name>
+			<description><![CDATA[ward: 第12投票区<br>lon: 138.0636317<br>lat: 34.786155<br>address: 掛川市伊達方474-1<br>area: 宮村、海老名、影森、塩井川原、寺ヶ谷、伊達方、本所、新田、池下、牛頭、山鼻、千羽、木割、池下雇用促進住宅、原子]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第12投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0636317</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.786155</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市伊達方474-1</value>
+				</Data>
+				<Data name='area'>
+					<value>宮村、海老名、影森、塩井川原、寺ヶ谷、伊達方、本所、新田、池下、牛頭、山鼻、千羽、木割、池下雇用促進住宅、原子</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0636317,34.786155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立日坂小学校</name>
+			<description><![CDATA[ward: 第13投票区<br>lon: 138.0728449<br>lat: 34.8026885<br>address: 掛川市大野3-1<br>area: 古宮、下町、本町、沓掛、御林、川向、大野、佐夜鹿]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第13投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0728449</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8026885</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市大野3-1</value>
+				</Data>
+				<Data name='area'>
+					<value>古宮、下町、本町、沓掛、御林、川向、大野、佐夜鹿</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0728449,34.8026885,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東山地域生涯学習センター</name>
+			<description><![CDATA[ward: 第14投票区<br>lon: 138.0771359<br>lat: 34.8366066<br>address: 掛川市東山1265-1<br>area: 東山]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第14投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0771359</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8366066</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市東山1265-1</value>
+				</Data>
+				<Data name='area'>
+					<value>東山</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0771359,34.8366066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>曽我小学校学童保育所</name>
+			<description><![CDATA[ward: 第15投票区<br>lon: 137.9767876<br>lat: 34.7617455<br>address: 掛川市領家581-1<br>area: 岡津、原川、徳泉、領家、高御所、篠場、平野、梅橋、細沢]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第15投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9767876</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7617455</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市領家581-1</value>
+				</Data>
+				<Data name='area'>
+					<value>岡津、原川、徳泉、領家、高御所、篠場、平野、梅橋、細沢</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9767876,34.7617455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立桜木小学校</name>
+			<description><![CDATA[ward: 第16投票区<br>lon: 137.9857269<br>lat: 34.7945486<br>address: 掛川市下垂木1472-1<br>area: 上垂木、家代、遊家、下垂木1区、家代の里、下垂木南]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第16投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9857269</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7945486</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市下垂木1472-1</value>
+				</Data>
+				<Data name='area'>
+					<value>上垂木、家代、遊家、下垂木1区、家代の里、下垂木南</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9857269,34.7945486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立桜が丘中学校</name>
+			<description><![CDATA[ward: 第17投票区<br>lon: 137.9752507<br>lat: 34.7825178<br>address: 掛川市富部716<br>area: 森平、富部、下垂木2区、下垂木3区]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第17投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9752507</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7825178</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市富部716</value>
+				</Data>
+				<Data name='area'>
+					<value>森平、富部、下垂木2区、下垂木3区</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9752507,34.7825178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>和田岡地域生涯学習センター</name>
+			<description><![CDATA[ward: 第18投票区<br>lon: 137.9555083<br>lat: 34.7849432<br>address: 掛川市吉岡271-5<br>area: 吉岡、高田、各和、吉岡市営住宅団地、つくしの]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第18投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9555083</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7849432</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市吉岡271-5</value>
+				</Data>
+				<Data name='area'>
+					<value>吉岡、高田、各和、吉岡市営住宅団地、つくしの</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9555083,34.7849432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立原谷小学校</name>
+			<description><![CDATA[ward: 第19投票区<br>lon: 137.9542654<br>lat: 34.8063388<br>address: 掛川市本郷561-1<br>area: 本郷西、本郷東、細谷、幡鎌、西山、本郷南、サングリーン]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第19投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9542654</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8063388</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市本郷561-1</value>
+				</Data>
+				<Data name='area'>
+					<value>本郷西、本郷東、細谷、幡鎌、西山、本郷南、サングリーン</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9542654,34.8063388,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立原田小学校</name>
+			<description><![CDATA[ward: 第20投票区<br>lon: 137.9668632<br>lat: 34.8390736<br>address: 掛川市原里1623-1<br>area: 寺島、桑地、栃原、高山、正道、平島、久居島]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第20投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9668632</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8390736</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市原里1623-1</value>
+				</Data>
+				<Data name='area'>
+					<value>寺島、桑地、栃原、高山、正道、平島、久居島</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9668632,34.8390736,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西之谷公民館</name>
+			<description><![CDATA[ward: 第21投票区<br>lon: 137.9843441<br>lat: 34.8656753<br>address: 掛川市上西之谷80-1<br>area: 明ヶ島、中西之谷、上西之谷、田代・柚葉]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第21投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9843441</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8656753</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市上西之谷80-1</value>
+				</Data>
+				<Data name='area'>
+					<value>明ヶ島、中西之谷、上西之谷、田代・柚葉</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9843441,34.8656753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>原泉地域生涯学習センター</name>
+			<description><![CDATA[ward: 第22投票区<br>lon: 138.0191835<br>lat: 34.8657313<br>address: 掛川市萩間423<br>area: 大和田、萩間、居尻、泉、孕丹]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第22投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0191835</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8657313</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市萩間423</value>
+				</Data>
+				<Data name='area'>
+					<value>大和田、萩間、居尻、泉、孕丹</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0191835,34.8657313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立西郷小学校</name>
+			<description><![CDATA[ward: 第23投票区<br>lon: 138.0127328<br>lat: 34.8062424<br>address: 掛川市上西郷2606-2<br>area: 小市、方ノ橋、構江、石畑、石ヶ谷、美人ヶ谷、滝ノ谷、長間、五明、花屋敷]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第23投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0127328</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8062424</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市上西郷2606-2</value>
+				</Data>
+				<Data name='area'>
+					<value>小市、方ノ橋、構江、石畑、石ヶ谷、美人ヶ谷、滝ノ谷、長間、五明、花屋敷</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0127328,34.8062424,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>倉真地域生涯学習センター</name>
+			<description><![CDATA[ward: 第24投票区<br>lon: 138.036125<br>lat: 34.8163556<br>address: 掛川市倉真3808-1<br>area: 倉真1区、倉真2区、倉真3区、倉真4区、倉真5区、倉真6区、倉真7区]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第24投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.036125</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.8163556</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市倉真3808-1</value>
+				</Data>
+				<Data name='area'>
+					<value>倉真1区、倉真2区、倉真3区、倉真4区、倉真5区、倉真6区、倉真7区</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.036125,34.8163556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立千浜小学校</name>
+			<description><![CDATA[ward: 第25投票区<br>lon: 138.0751835<br>lat: 34.6592922<br>address: 掛川市千浜5849<br>area: 千浜東、千浜西、国浜、千浜雇用促進]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第25投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0751835</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6592922</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市千浜5849</value>
+				</Data>
+				<Data name='area'>
+					<value>千浜東、千浜西、国浜、千浜雇用促進</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0751835,34.6592922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立大浜中学校</name>
+			<description><![CDATA[ward: 第26投票区<br>lon: 138.0461571<br>lat: 34.6668133<br>address: 掛川市大坂1147<br>area: 三浜、浜野、大坂、大坂雇用促進]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第26投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0461571</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6668133</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市大坂1147</value>
+				</Data>
+				<Data name='area'>
+					<value>三浜、浜野、大坂、大坂雇用促進</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0461571,34.6668133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立大坂小学校</name>
+			<description><![CDATA[ward: 第27投票区<br>lon: 138.0471398<br>lat: 34.6751089<br>address: 掛川市大坂5667<br>area: 三井、東大坂]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第27投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0471398</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6751089</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市大坂5667</value>
+				</Data>
+				<Data name='area'>
+					<value>三井、東大坂</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0471398,34.6751089,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立土方小学校</name>
+			<description><![CDATA[ward: 第28投票区<br>lon: 138.0416192<br>lat: 34.7075722<br>address: 掛川市上土方286-1<br>area: 下土方、土方、上土方]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第28投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0416192</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7075722</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市上土方286-1</value>
+				</Data>
+				<Data name='area'>
+					<value>下土方、土方、上土方</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0416192,34.7075722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立佐束小学校</name>
+			<description><![CDATA[ward: 第29投票区<br>lon: 138.0533227<br>lat: 34.7164809<br>address: 掛川市小貫1474<br>area: 井崎雇用促進、高瀬、小貫、中方、岩滑]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第29投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0533227</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.7164809</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市小貫1474</value>
+				</Data>
+				<Data name='area'>
+					<value>井崎雇用促進、高瀬、小貫、中方、岩滑</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0533227,34.7164809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立中小学校</name>
+			<description><![CDATA[ward: 第30投票区<br>lon: 138.059545<br>lat: 34.6883831<br>address: 掛川市中3080<br>area: 睦三、中、中雇用促進]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第30投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.059545</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6883831</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市中3080</value>
+				</Data>
+				<Data name='area'>
+					<value>睦三、中、中雇用促進</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.059545,34.6883831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立横須賀小学校</name>
+			<description><![CDATA[ward: 第31投票区<br>lon: 137.9846583<br>lat: 34.6799859<br>address: 掛川市横須賀1110<br>area: 横須賀川原町、十六軒町、大谷町、新屋町、西大谷、東本町、中本町、中番町、東番町、南番町、汐見ケ丘、柏平]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第31投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9846583</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6799859</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市横須賀1110</value>
+				</Data>
+				<Data name='area'>
+					<value>横須賀川原町、十六軒町、大谷町、新屋町、西大谷、東本町、中本町、中番町、東番町、南番町、汐見ケ丘、柏平</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9846583,34.6799859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>沢上町公民館</name>
+			<description><![CDATA[ward: 第32投票区<br>lon: 137.98019<br>lat: 34.6845635<br>address: 掛川市西大渕5525-8<br>area: 西本町、軍全町、沢上町、東新町、西新町、西田町、東田町、大工町、西番町]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第32投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.98019</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6845635</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市西大渕5525-8</value>
+				</Data>
+				<Data name='area'>
+					<value>西本町、軍全町、沢上町、東新町、西新町、西田町、東田町、大工町、西番町</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.98019,34.6845635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>掛川市立横須賀幼稚園</name>
+			<description><![CDATA[ward: 第33投票区<br>lon: 137.9796927<br>lat: 34.6778357<br>address: 掛川市西大渕1010<br>area: 今沢、川原崎、雇用促進第1、西大渕]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第33投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9796927</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6778357</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市西大渕1010</value>
+				</Data>
+				<Data name='area'>
+					<value>今沢、川原崎、雇用促進第1、西大渕</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9796927,34.6778357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>沖之須コミュニティセンターいこい</name>
+			<description><![CDATA[ward: 第34投票区<br>lon: 137.9901534<br>lat: 34.6723109<br>address: 掛川市沖之須379-1<br>area: 沖之須]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第34投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9901534</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6723109</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市沖之須379-1</value>
+				</Data>
+				<Data name='area'>
+					<value>沖之須</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9901534,34.6723109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大渕農村環境改善センター</name>
+			<description><![CDATA[ward: 第35投票区<br>lon: 138.0094276<br>lat: 34.6732278<br>address: 掛川市大渕6881-2<br>area: 野賀、新井、中新井、岡原、浜、東大谷、野中、藤塚、雨垂]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第35投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>138.0094276</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6732278</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市大渕6881-2</value>
+				</Data>
+				<Data name='area'>
+					<value>野賀、新井、中新井、岡原、浜、東大谷、野中、藤塚、雨垂</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.0094276,34.6732278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>山崎農村環境改善センター</name>
+			<description><![CDATA[ward: 第36投票区<br>lon: 137.9699576<br>lat: 34.6864683<br>address: 掛川市山崎1510<br>area: 松尾町、石津、横砂、小谷田、清ケ谷、本谷、城前団地]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='ward'>
+					<value>第36投票区</value>
+				</Data>
+				<Data name='lon'>
+					<value>137.9699576</value>
+				</Data>
+				<Data name='lat'>
+					<value>34.6864683</value>
+				</Data>
+				<Data name='address'>
+					<value>掛川市山崎1510</value>
+				</Data>
+				<Data name='area'>
+					<value>松尾町、石津、横砂、小谷田、清ケ谷、本谷、城前団地</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.9699576,34.6864683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
